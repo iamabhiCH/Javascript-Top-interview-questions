@@ -1,0 +1,1 @@
+// Write a JavaScript program to find the maximum number in an array.
