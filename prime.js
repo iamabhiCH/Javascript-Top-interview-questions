@@ -18,8 +18,8 @@ function isPrime(num){
 }
 
 if(isPrime(num)){
-    console.log("Prime number");
+    console.log("This is a Prime number");
 }
 else{
-    console.log("Not a prime number.")
+    console.log("This is not a prime number.")
 }
