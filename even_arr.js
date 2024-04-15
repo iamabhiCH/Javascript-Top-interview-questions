@@ -3,7 +3,7 @@
     returns a new array with only the even numbers. 
 */
 
-let numbArr = [12,3456,31,79,80,44,77,23,29,404,889,9890,456,91];
+let numbArr = [12,3456,31,79,56,23451,1190,5678,80,44,77,23,29,404,889,9890,456,91];
 
 let evenArr = [];
 
