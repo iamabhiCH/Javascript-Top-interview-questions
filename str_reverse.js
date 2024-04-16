@@ -1,6 +1,6 @@
 // WAP to reverse thr given string.
 
-const str = "Abhishek Yadav";
+const str = "Hello, I am Abhishek Yadav";
 
 function  reverseString(str) {
     const revStr = str.split('').reverse().join('');
