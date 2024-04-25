@@ -5,8 +5,8 @@ const prompt = require("prompt-sync")();
 let num = parseInt(prompt("Enter a number to find factorial : "));
 
 let res = 1;
-for(let i = 1; i <= num; i++){
-    res = res * i;
+for(let x = 1; x <= num; x++){
+    res = res * x;
 }
 
 console.log("Factorial of ",num," is : ",res);
