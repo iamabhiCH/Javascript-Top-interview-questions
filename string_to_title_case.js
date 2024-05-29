@@ -7,6 +7,6 @@ function convertToTitleCase(s) {
   }
   
   // Example usage
-  const inputString = "abhishek yadav";
+  const inputString = "abhishek yadav iamabhi";
   const titleCaseString = convertToTitleCase(inputString);
   console.log(titleCaseString);   
