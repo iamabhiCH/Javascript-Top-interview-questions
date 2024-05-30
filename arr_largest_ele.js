@@ -20,4 +20,4 @@ function  findLargest(arr) {
     return arrVal;
 }
 
-console.log("largest element : ", findLargest(nestedArray));
+console.log("largest element of the array is : ", findLargest(nestedArray));
