@@ -2,7 +2,7 @@
 
 const prompt = require('prompt-sync')();
 
-const num = parseInt(prompt("Enter a number: "));
+const num = parseInt(prompt("Enter a number to check for prime number: "));
 
 function isPrime(num){
     if(num <= 1){
